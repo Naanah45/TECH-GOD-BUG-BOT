@@ -10,22 +10,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
-global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.ownernomer = "233505796541"
+global.ownername = "DECEMBER"
+global.ytname = "DECEMBER"
+global.socialm = "GitHub: cupcake299"
+global.location = "Ghana, Up, Accra"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '233505796541'  //creator number
+global.ownername = 'DECEMBER' //owner name
+global.botname = 'AFRIYIE' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'December\n\nContact: +233505796541'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🐦‍🔥'
 global.wm = "Youtube Tech God."
 
 //theme link
@@ -39,8 +39,8 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
-global.anti92 = false //auto block +92 
+global.autobio = false //auto update bio
+global.anti92 = true //auto block +92 
 global.autoswview = true //auto view status/story
 
 //menu type 
